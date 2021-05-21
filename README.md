@@ -11,9 +11,6 @@ I wanted to improve Sphere Sprint, but still have a version up like the original
 
 
 v1.9a - Original - Same game, better graphics, lesser performance
-
 v1.9b - Lite - Same game, lesser graphics, better performance
-
 v1.9c - Toon - Same game, cartoon graphics, better performance
-
 (I promise I won't do this again for Sphere Sprint 2)
