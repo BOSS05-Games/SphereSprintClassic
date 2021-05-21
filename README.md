@@ -3,7 +3,7 @@ The original Sphere Sprint, hosted on GitHub.
 
 This is the first 3D game I ever made. It's far from perfect (which is why the sequel, Sphere Sprint 2, is currently in development), but it is still quite fun.
 
-You can find the Windows version under Releases, but the web version (Equivalent to v1.9c) is here:
+You can find the Windows version under Releases, but the web version (v1.9c) is here:
 https://boss05-games.github.io/SphereSprintClassic/
 
 I wanted to improve Sphere Sprint, but still have a version up like the original, so v1.9 is split into 3 types.
